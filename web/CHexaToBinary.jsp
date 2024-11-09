@@ -83,7 +83,7 @@
                                 <span></span>
                                 <small class="align-bottom fw-normal" style="font-size: 15px; line-height: 33px;"></small>
                             </h1>
-                            <a href="" class="btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">CLOUD HOME</a>
+                            <a href="CloudHome.jsp" class="btn btn-secondary py-sm-3 px-sm-5 me-3 animated slideInLeft">CLOUD HOME</a>
                         </div>
                         <div class="col-lg-6 text-center text-lg-start">
                            
